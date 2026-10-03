@@ -4,13 +4,11 @@ Recon, document conversion, and design assets. Install commands are the real one
 
 ## Recon (authorized engagements only)
 
-- RustScan - `cargo install rustscan`. Modern port scanner, genuinely 10x faster than raw Nmap for initial sweeps. Pipe into Nmap for service detection.
-- Arjun - `pip install arjun`. HTTP parameter discovery.
-- Katana - ProjectDiscovery's JS-aware crawler; `go install`. The current standard for JS-heavy crawling.
-- GoSpider - fast web spider for URLs, subdomains, and S3 buckets; `go install`.
-- ParamSpider - parameter mining from web archives; pip.
-
-Canonical repo links pending; the daily job will pin them. All five are standard, well-maintained tools, directly useful for the pentest team's recon toolkit and study material.
+- [RustScan](https://github.com/bee-san/RustScan) - `cargo install rustscan`. Modern port scanner, genuinely 10x faster than raw Nmap for initial sweeps. Pipe into Nmap for service detection.
+- [Arjun](https://github.com/s0md3v/Arjun) - `pip install arjun`. HTTP parameter discovery.
+- [Katana](https://github.com/projectdiscovery/katana) - ProjectDiscovery's JS-aware crawler; `go install`. The current standard for JS-heavy crawling.
+- [GoSpider](https://github.com/jaeles-project/gospider) - fast web spider for URLs, subdomains, and S3 buckets; `go install`.
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider) - parameter mining from web archives; pip.
 
 ## Document conversion
 
@@ -18,4 +16,4 @@ Canonical repo links pending; the daily job will pin them. All five are standard
 
 ## Design assets
 
-- Aria-Icons - 380k searchable SVGs. Genuinely useful for the design and PDF work. Canonical link pending.
+- [Aria-Icons](https://github.com/LeulAria/Aria-Icons) - 380k searchable SVGs. Genuinely useful for the design and PDF work.

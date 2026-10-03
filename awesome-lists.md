@@ -33,6 +33,7 @@ The meta-list. Check these before building anything; someone has usually already
 
 - [brandonhimpfen/awesome-prompt-engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering) - guides, courses, libraries, tools, papers.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - the reference book: techniques from basics to advanced, with examples.
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 techniques, each as a runnable Jupyter notebook. The learn-by-doing complement to the dair-ai reference (7.9k stars, active).
 
 ## Routing and gateways
 
@@ -40,4 +41,4 @@ The meta-list. Check these before building anything; someone has usually already
 
 ## Alternates (verified live, not promoted to the main list yet)
 
-devilking7x/awesome-agent-skills-9, runapi-builder/gmh5225-awesome-skills, happytalkman/awesome-ai-apps, alichherawalla/awesome-selfhosted-ai, pasihaka/awesome-mcp-servers, calebvbi/awesome-prompt-engineering, danielmiessler/fabric, f/prompts.chat. The daily job evaluates these for promotion.
+devilking7x/awesome-agent-skills-9, runapi-builder/gmh5225-awesome-skills, happytalkman/awesome-ai-apps, alichherawalla/awesome-selfhosted-ai, pasihaka/awesome-mcp-servers, danielmiessler/fabric, f/prompts.chat. The daily job evaluates these for promotion.
