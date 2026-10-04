@@ -30,4 +30,4 @@ Rules the maintainer follows:
 
 This is a local git repo. To publish: `gh auth login`, then add the remote and push. Nothing here is secret, but review before making it public.
 
-Last updated: 2026-10-03
+Last updated: 2026-10-04
